@@ -75,7 +75,7 @@ The complete code is available in this repository. Just mount your Google Drive,
 
 ## Research Collaborations & Contributions ## 
 
-I'm Jayanth  I am actively working on multiple research projects and am open to collaborations in machine learning, computer vision, and biological image analysis!
+I'm Jayanth , I am actively working on multiple research projects and am open to collaborations in machine learning, computer vision, and biological image analysis!
 
 If you're interested in:
 - Improving this bacterial motor detection system
