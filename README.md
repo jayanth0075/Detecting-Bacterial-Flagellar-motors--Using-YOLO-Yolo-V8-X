@@ -12,8 +12,7 @@ Manually identifying bacterial flagellar motors in microscopy images is time-con
 
 - mAP50: 87.54%
 - mAP50-95: 51.97%
-- Inference Speed: ~26 FPS on Tesla T4 GPU
-- Dataset: 792 training images, 792 validation images
+
 
 The model performs well but has room for improvement for higher IOU thresholds  - perfect for further research and optimization!
 
