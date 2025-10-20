@@ -10,8 +10,8 @@ Manually identifying bacterial flagellar motors in microscopy images is time-con
 
  Results
 
-- mAP50: 87.54%
-- mAP50-95: 51.97%
+- The map50 score was 87.75
+- the map 50-95 score was 51.9
 
 
 The model performs well but has room for improvement for higher IOU thresholds  - perfect for further research and optimization!
